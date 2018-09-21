@@ -56,6 +56,7 @@ This is a script you need to run from your terminal; maybe in the future I'll
 turn this into a website or something, but for now, these are the instructions:
 
 1. Install `node`.
+1. Clone this repository with `git`.
 1. `cd` into this directory.
 1. Run `npm install`.
 1. Run `npm start`. It will fail because you need to supply arguments.
