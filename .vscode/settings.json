@@ -1,0 +1,7 @@
+{
+  "editor.renderWhitespace": "all",
+  "[plaintext]": {
+    "editor.formatOnSave": false,
+    "editor.trimAutoWhitespace": false
+  }
+}
