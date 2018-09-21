@@ -1,0 +1,15 @@
+*.DS_STORE
+
+node_modules/
+
+yarn-error.log
+DO_NOT_COMMIT*
+
+# VSCode
+#
+.history/
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
