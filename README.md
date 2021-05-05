@@ -1,5 +1,7 @@
 # add-measure-words
 
+# This project is not maintained.
+
 Adds measure words to existing Anki cards, as exported in `tsv` format by the
 Anki desktop program.
 
